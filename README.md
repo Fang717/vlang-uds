@@ -1,4 +1,4 @@
-# Vlang UDS Implementation
+## Vlang UDS Implementation
 
 This project provides a lightweight and modular implementation of **UDS (Unified Diagnostic Services, ISO 14229)** in **Vlang**, designed for embedded systems, automotive diagnostics, and tooling.
 
